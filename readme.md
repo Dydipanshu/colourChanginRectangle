@@ -36,6 +36,10 @@ You can view a demo of this project by clicking the play button below:
 
 [![Demo Video](/Color%20changing%20rectangle%20and%2013%20more%20pages%20-%20Personal%20-%20Microsoft​%20Edge%2008-09-2023%2015_10_01%20(2).png)](/RectangleDemo.mp4)
 
+## Live Version
+
+You can access the live version of the website by following this link: [Live Demo](https://colorchangingrectangle.netlify.app/)
+
 ## Additional Information
 
 - This project uses the GSAP library for animation. Ensure you have an internet connection to load the GSAP library from a Content Delivery Network (CDN).
